@@ -40,4 +40,4 @@ As a Scrum Master, I introduced more structured sprint cycles, which helped the 
 * **Design Patterns:** Deepening my knowledge of Singleton, State, and Observer patterns in a collaborative environment.
 * **Marketing in Indie Dev:** Understanding how to position a game in a competitive market while it's still in production.
 
-  
+  ![](screenshots/Main-menu.png)
