@@ -1,7 +1,7 @@
-# Limbo-Kitchen
+# Naihe-Bridge
 **Limbo Kitchen** is a 3D, TPP, cooking-management game with a dark comedy twist. You play as a chef who signed a job contract without reading the fine print – and now, even after death, you’re bound to serve in the same restaurant. The game focuses on preparing complex dishes based on customers' visual cues and dialogues.
 
-> **Status:** Active development (6 months in). I joined the team in the 4th month to streamline the process and implement core systems.
+> **Status:** Active development (one year in). I joined the team in the 4th month to streamline the process and implement core systems.
 
 ## 🔧 Technologies
 * **Engine:** Unity 6
